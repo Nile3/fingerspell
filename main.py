@@ -36,6 +36,7 @@ que_word()
 # this function will promt the user to spell the that was fingerspelled to them in english
 def get_user_answer():
     user_guess = input("spell the word you saw: ")
+    print("Booyah!")
     return user_guess
 
 
