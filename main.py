@@ -2,6 +2,7 @@ import random
 import cv2
 from itertools import cycle
 
+
 # this is the vocabulary list that the words will be pulled from
 vocabulary_list = ['active', 'adventure', 'alarm', 'annual', 'balloon', 'basket', 'beach', 'beautiful', 'believe',
                    'bicycle',
@@ -45,8 +46,8 @@ asl_letters = {
     'c': 'images/c.png',
     'd': 'images/d.png',
     'e': 'images/e.png',
-    'f': 'images/f_small.png',
-    'g': 'images/g_small.png',
+    'f': 'images/f.png',
+    'g': 'images/g.png',
     'h': 'images/h.png',
     'i': 'images/i.png',
     'j': 'images/j.png',
